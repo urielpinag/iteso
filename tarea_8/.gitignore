@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+.terraform.tfstate.lock.info
+*.tfstate
+*.tfstate.*
+tfplan
+*.tfplan
+crash.log
+crash.*.log
+
+# Nunca subir secretos
+*.auto.tfvars
+secrets.tfvars
+.env
