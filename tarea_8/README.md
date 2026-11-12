@@ -70,3 +70,4 @@ El workspace `tarea8-terraform` (organización `piniaops`) apunta a este
 directorio (`tarea_8`) y ejecuta plan/apply en HCP Terraform con cada push a
 `main`.
 
+<!-- trigger vcs run -->
